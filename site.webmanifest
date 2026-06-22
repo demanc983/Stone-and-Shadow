@@ -1,0 +1,13 @@
+{
+  "name": "Stone & Sword — Part 1",
+  "short_name": "Stone & Sword",
+  "description": "A pixel-art village adventure for Arlo and Axel.",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0d15",
+  "theme_color": "#11141f",
+  "start_url": "./",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
